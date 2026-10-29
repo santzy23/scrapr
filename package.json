@@ -1,5 +1,5 @@
 {
-  "name": "@coflyn/scrapr",
+  "name": "sannSV",
   "version": "1.4.0",
   "description": "Universal media extractor, link resolver, and URL unshortener for Node.js (TikTok, Instagram, YouTube, Spotify, Sfile, Safelinku, and more).",
   "main": "index.js",
